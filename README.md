@@ -2,7 +2,7 @@
 
 ## 🧠 Descrição do Problema
 
-A empresa fictícia Sabor Express enfrenta dificuldades para gerenciar suas entregas em horários de pico. Este projeto propõe uma solução baseada em Inteligência Artificial para otimizar rotas de entrega.
+A empresa Sabor Express enfrenta dificuldades para gerenciar suas entregas em horários de pico. Este projeto propõe uma solução baseada em Inteligência Artificial para otimizar rotas de entrega.
 
 ## 🎯 Objetivos
 
