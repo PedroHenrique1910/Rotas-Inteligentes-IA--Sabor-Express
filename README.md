@@ -45,3 +45,12 @@ A empresa fictícia Sabor Express enfrenta dificuldades para gerenciar suas entr
 - ResearchGate – IA com IoT
 
 - Kardinal.ai – Fresh Product Delivery
+## 📊 Resultados do Algoritmo A*
+
+- Menor caminho entre Centro e Liberdade: `['Centro', 'Liberdade']`
+
+- Distância total: `7 km`
+
+- Caminho visualizado na imagem abaixo:
+
+!Menor caminho A*
